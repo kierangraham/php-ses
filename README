@@ -1,0 +1,5 @@
+PHP-SES
+
+A library for interacting with Amazon's Simple Email Service.
+
+Usage docs can be found at http://www.orderingdisorder.com/aws/ses/
