@@ -1,0 +1,10 @@
+{
+	"name": "kierangraham/php-ses",
+	"description": "PHP class for interacting with the Amazon Simple Email Service",
+	"type": "library",
+	"license": "BSD",
+	"authors": [],
+	"autoload": {
+		"classmap": ["/"]
+	}
+}
